@@ -1,0 +1,11 @@
+.AppointmentsArea{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.servicesAppointments{
+    box-shadow: 0px 0px 10px grey;
+   padding:5px;
+   margin:10px;
+}

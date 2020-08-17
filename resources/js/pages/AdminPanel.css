@@ -1,0 +1,22 @@
+
+.mainPagesContainer{
+ display:flex;
+ justify-content: center;
+ flex-wrap: wrap;
+}
+
+.mainPage{
+    
+    margin:10px;
+    padding: 10px;
+    background: lightgrey;
+    color:black;
+    cursor: pointer;
+    box-shadow: 0px 0px 0.5px 0.5px gray;
+    
+}
+
+.mainPage:hover{
+    background: gray;
+    color:lightgrey;
+}
